@@ -457,6 +457,9 @@ early A interpreter with buddy system space management.
 - [ASM-Interpreter](https://github.com/GEMISIS/ASM-Interpreter)
 A simple assembly interpreter.  It can be used to learn the basics of most assembly languages.
 
+- [assembly-repl](https://github.com/pirate/assembly-repl)
+Native assembly, LLVM IR, C, C++, and Objective-C REPLs for macOS and Linux.
+
 - [mbed-client-cli](https://github.com/ARMmbed/mbed-client-cli)
 Command Line Interface library for device
 
